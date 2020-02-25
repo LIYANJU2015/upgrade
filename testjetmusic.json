@@ -3,8 +3,8 @@
 	"force": 1,
 	"name": "New Download Music App",
 	"des": "The app will not be maintained in the future. Please download the latest app. There are fewer advertisements, more music resources and better experience",
-	"package_name": "com.musicdownloader.downloadmp3.premusicdownloader",
-	"icon": "https://image.winudf.com/v2/image1/Y29tLm11c2ljZG93bmxvYWRlci5kb3dubG9hZG1wMy5wcmVtdXNpY2Rvd25sb2FkZXJfaWNvbl8xNTc5MzQzODQ1XzAwMQ/icon.png?w=130&fakeurl=1",
+	"package_name": "com.freemusic.musicdownloader.downloadmusic.allmusicfaster",
+	"icon": "https://image.winudf.com/v2/image1/Y29tLmZyZWVtdXNpYy5tdXNpY2Rvd25sb2FkZXIuZG93bmxvYWRtdXNpYy5hbGxtdXNpY2Zhc3Rlcl9pY29uXzE1Nzg1NDkzMTZfMDA5/icon.png?w=170&fakeurl=1",
 	"jamendo_client_id": "",
 	"interval_time": 1800000
 }
