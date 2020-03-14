@@ -6,5 +6,5 @@
 "package_name": "com.freemusic.musicdownloader.downloadmusic.allmusicfaster",
 "icon": "https://image.winudf.com/v2/image1/Y29tLmZyZWVtdXNpYy5tdXNpY2Rvd25sb2FkZXIuZG93bmxvYWRtdXNpYy5hbGxtdXNpY2Zhc3Rlcl9pY29uXzE1Nzg1NDkzMTZfMDA5/icon.png?w=170&fakeurl=1",
 "jamendo_client_id": "",
-"interval_time": 1800000
+"interval_time": 120000
 }
