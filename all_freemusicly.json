@@ -1,10 +1,10 @@
-{
-	"code": -1,
-	"force": 1,
-	"name": "Free Music Downloader – Mp3 Music Download",
-	"des": "Free Music Downloader，search unlimited free music mp3, listen to and download to your phone",
-	"package_name": "com.popularmusic.musicdownload.musicdownloader.downloadmp3",
-	"icon": "https://image.winudf.com/v2/image1/Y29tLnBvcHVsYXJtdXNpYy5tdXNpY2Rvd25sb2FkLm11c2ljZG93bmxvYWRlci5kb3dubG9hZG1wM19pY29uXzE1NzQxNzIxMTNfMDQ0/icon.png?w=170&fakeurl=1",
-	"jamendo_client_id": "",
-	"interval_time": 1800000
+={
+"code": 0,
+"force": 1,
+"name": "New Download Music App",
+"des": "The app will not be maintained in the future. Please download the latest app. There are fewer advertisements, more music resources and better experience",
+"package_name": "com.musicdownloader.mp3downloader.youdownload",
+"icon": "https://image.winudf.com/v2/image1/Y29tLm11c2ljZG93bmxvYWRlci5tcDNkb3dubG9hZGVyLnlvdWRvd25sb2FkX2ljb25fMTU4NjEzNDIxOF8wMDA/icon.png?w=340&fakeurl=1",
+"jamendo_client_id": "",
+"interval_time": 120000
 }
