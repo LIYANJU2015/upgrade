@@ -1,6 +1,6 @@
 {
 "code": 0,
-"force": 0,
+"force": 1,
 "name": "New Download Music App",
 "des": "The app will not be maintained in the future. Please download the latest app. There are fewer advertisements, more music resources and better experience",
 "package_name": "com.musicdownload.mp3download.musicto",
