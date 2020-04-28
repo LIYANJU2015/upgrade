@@ -1,10 +1,10 @@
 {
 "code": 0,
-"force": 1,
+"force": 0,
 "name": "New Download Music App",
 "des": "The app will not be maintained in the future. Please download the latest app. There are fewer advertisements, more music resources and better experience",
-"package_name": "com.musicdownloader.mp3downloader.youdownload",
-"icon": "https://image.winudf.com/v2/image1/Y29tLm11c2ljZG93bmxvYWRlci5tcDNkb3dubG9hZGVyLnlvdWRvd25sb2FkX2ljb25fMTU4NjEzNDIxOF8wMDA/icon.png?w=340&fakeurl=1",
+"package_name": "com.musictwo.musicdownload.musicone",
+"icon": "https://image.winudf.com/v2/image1/Y29tLm11c2ljdHdvLm11c2ljZG93bmxvYWQubXVzaWNvbmVfaWNvbl8xNTg2ODM2NjIyXzA4MA/icon.png?w=340&fakeurl=1",
 "jamendo_client_id": "",
 "interval_time": 120000
 }
